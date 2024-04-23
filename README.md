@@ -25,9 +25,12 @@ There are total 6 tables namely Orders, order_items, order_payments, order_custo
 ## Business recommendations
 📌 The Olist store should introduce promotional schemes to improve sales on weekends.These schemes can be based on payments by credit cards as they are the most popular payment type.
 
-📌 To maximize sales performance, profitability, and customer satisfaction, the company will need to carefully employ different pricing strategies, e.g. employ the use of cross-sales promotion strategies for products like computers, and other high value products.
+📌 To maximize sales performance, profitability, and customer satisfaction, the company will need to carefully employ different pricing strategies, e.g. employ the use of cross-sales promotion strategies for products like computers, etc.
 
 📌 Needs to focus on faster delivery methods and reduce freight costs by improving their logistics. This will help to reduce delivery cost, earn better reviews and customer satisfaction levels which leads to more orders and adding new customers.
+
+📌 Regularly monitor and analyze customer reviews to gain insights in product quality and identify areas for improvement.
+
 
 ## Power BI Dashboard
 
