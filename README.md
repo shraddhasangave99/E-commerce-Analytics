@@ -22,6 +22,13 @@ There are total 6 tables namely Orders, order_items, order_payments, order_custo
 
 ![Screenshot (12)](https://github.com/shraddhasangave99/E-commerce-Analytics/assets/153710836/67e619bd-2ce6-407f-90e0-45e98f55d199)
 
+## Business recommendations
+📌 The Olist store should introduce promotional schemes to improve sales on weekends.These schemes can be based on payments by credit cards as they are the most popular payment type.
+
+📌 To maximize sales performance, profitability, and customer satisfaction, the company will need to carefully employ different pricing strategies, e.g. employ the use of cross-sales promotion strategies for products like computers, and other high value products.
+
+📌 Needs to focus on faster delivery methods and reduce freight costs by improving their logistics. This will help to reduce delivery cost, earn better reviews and customer satisfaction levels which leads to more orders and adding new customers.
+
 ## Power BI Dashboard
 
 ![Screenshot (9)](https://github.com/shraddhasangave99/E-commerce-Analytics/assets/153710836/ea817a99-c82f-493a-8aec-282c6d2536dd)
