@@ -19,4 +19,6 @@
 
 ## Dataset Schema
 There are total 6 tables namely Orders, order_items, order_payments, order_customers, order_reviews and products. And the fact table is the Orders table contains Customer_id, order_id, dates, etc.
-![Screenshot (11)](https://github.com/shraddhasangave99/E-commerce-Analytics/assets/153710836/1b5f876b-a4cb-4140-b80f-571100423ae2)
+
+![Screenshot (12)](https://github.com/shraddhasangave99/E-commerce-Analytics/assets/153710836/67e619bd-2ce6-407f-90e0-45e98f55d199)
+
