@@ -10,6 +10,9 @@
 ## Overview
 
 ▪️ Found relevant connections among the tables so that when joined together can show even better insights which cannot be presented in isolation.
+
 ▪️ Obtained deeper insights beyond raw data by aggregating and calculating information, uncovering hidden patterns and trends.
+
 ▪️ Identified appropriate visualization methods to effectively present the transformed data, ensuring clarity and accessibility.
+
 ▪️ Utilized tools like Excel, Power BI, Tableau, and SQL to thoroughly cover different Key Performance Indicators (KPIs) in the report, resulting in detailed analysis.
