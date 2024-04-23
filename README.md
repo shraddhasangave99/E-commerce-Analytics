@@ -16,3 +16,7 @@
 ▪️ Identified appropriate visualization methods to effectively present the transformed data, ensuring clarity and accessibility.
 
 ▪️ Utilized tools like Excel, Power BI, Tableau, and SQL to thoroughly cover different Key Performance Indicators (KPIs) in the report, resulting in detailed analysis.
+
+## Dataset Schema
+There are total 6 tables namely Orders, order_items, order_payments, order_customers, order_reviews and products. And the fact table is the Orders table contains Customer_id, order_id, dates, etc.
+![Screenshot (11)](https://github.com/shraddhasangave99/E-commerce-Analytics/assets/153710836/1b5f876b-a4cb-4140-b80f-571100423ae2)
