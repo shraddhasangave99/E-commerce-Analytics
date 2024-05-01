@@ -34,5 +34,5 @@ There are total 6 tables namely Orders, order_items, order_payments, order_custo
 
 ## Power BI Interactive Dashboard
 
-[Interactive dashboard](https://github.com/shraddhasangave99/E-commerce-Analytics/assets/153710836/653bacae-fd90-4d8d-8f18-d014556e79b0)
+[Interactive dashboard](https://github.com/shraddhasangave99/E-commerce-Analytics/assets/153710836/3ada50a1-8f5a-4eba-b49e-5a5c42706f97)
 
