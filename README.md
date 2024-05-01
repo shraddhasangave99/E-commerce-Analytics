@@ -36,5 +36,5 @@ There are total 6 tables namely Orders, order_items, order_payments, order_custo
 
 ![Screenshot (9)](https://github.com/shraddhasangave99/E-commerce-Analytics/assets/153710836/ea817a99-c82f-493a-8aec-282c6d2536dd)
 
-
+[Interactive dashboard](https://github.com/shraddhasangave99/E-commerce-Analytics/assets/153710836/5db6fc94-8ad7-4f1f-ac29-a840d1aa1b81)
 
