@@ -22,7 +22,7 @@ There are total 6 tables namely Orders, order_items, order_payments, order_custo
 
 ![Screenshot (12)](https://github.com/shraddhasangave99/E-commerce-Analytics/assets/153710836/67e619bd-2ce6-407f-90e0-45e98f55d199)
 
-## Business recommendations
+## Business Recommendations
 📌 The Olist store should introduce promotional schemes to improve sales on weekends.These schemes can be based on payments by credit cards as they are the most popular payment type.
 
 📌 To maximize sales performance, profitability, and customer satisfaction, the company will need to carefully employ different pricing strategies, e.g. employ the use of cross-sales promotion strategies for products like computers, etc.
